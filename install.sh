@@ -215,6 +215,7 @@ default         0;
     sudo ufw allow 4133/tcp
     sudo ufw allow 4233/tcp
     sudo ufw allow 4234/tcp
+    sudo ufw allow 4238/tcp
     sudo ufw allow 4333/tcp
     sudo ufw allow 4433/tcp
     sudo ufw allow 4533/tcp
